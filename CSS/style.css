@@ -1,0 +1,47 @@
+body{
+	background-image: url("../IMG/background.jpg");
+	background-size: cover;
+}
+
+header{
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 20px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 100%;
+	font-family: 'Poiret One', cursive;
+}
+
+.container{
+	background-color: #000000;
+	opacity: 0.5;
+	margin-top: 2rem;
+}
+
+section{
+	padding: 20px;
+	text-align: center;
+	color: #FFFFFF;
+	line-height: 20px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 100%;
+	font-family: 'Poiret One', cursive;
+}
+
+form{
+	text-align: left;
+	padding-left: 38rem;
+}
+
+footer{
+	text-align: center;
+	color: #FFFFFF;
+	line-height: 20px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 100%;
+	font-family: 'Poiret One', cursive;
+}
+
